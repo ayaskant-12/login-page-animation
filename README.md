@@ -1,4 +1,3 @@
-# login-page-animation
 # Interactive Form with SVG Animations
 
 An engaging web application that combines form functionality with captivating SVG-based animations, offering an interactive and visually appealing user experience.
@@ -49,3 +48,23 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo-name
+3. Open index.html in your browser to view the project.
+
+---
+
+## 📂 File Structure
+
+```bash
+📦 Project Root
+├── index.html     # Main HTML file
+├── style.css      # CSS for styling
+├── script.js      # JavaScript for logic and animations
+└── README.md      # Project documentation
+```
+---
+
+## 🖼️ Preview
+
