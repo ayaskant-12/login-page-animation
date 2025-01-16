@@ -68,3 +68,28 @@ Make sure you have the following installed:
 
 ## 🖼️ Preview
 
+<img src="animation login page.png">
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+
+- Submit pull requests.
+- Report bugs or suggest features by opening an issue.
+
+---
+
+## ✨ Acknowledgments
+
+- GSAP Animation Library
+- Inspiration from creative SVG animation projects.
+
+---
+
+## follow me
+
+follow me on [github](https://github.com/ayaskant-12)
+
+follow me on [instagram](https://www.instagram.com/ayaskant_dash_03/)
